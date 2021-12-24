@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://effe.li"
 
+# Theme(s)
+theme = "ntun"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
@@ -12,5 +15,13 @@ build_search_index = false
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
+
 [extra]
 # Put all your custom variables here
+title = "effe.li"
+author = "Effeli Ångstrom Holst"
+author_image = "IMG_2334.jpeg"
+job = "bästa vän"
+description = ""
+links = [
+]
