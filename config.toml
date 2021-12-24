@@ -2,7 +2,7 @@
 base_url = "https://effe.li"
 
 # Theme(s)
-theme = "ntun"
+theme = "mbs-ntun"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
